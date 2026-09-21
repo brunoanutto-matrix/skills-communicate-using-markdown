@@ -17,3 +17,7 @@ Java Script:
 ```js
 var myVar = "Hello, world!";
 ```
+Python:
+```py
+msg = "Hello, world!"
+```
